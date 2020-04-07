@@ -81,3 +81,15 @@ Jour 19 samedi 4 avril
 Jour 20	dimanche 5 avril
 	Pas de marathon aujourd'hui...
 	J'ai sorti le violoncelle pour jouer la partie de souba de Tears. J'ai mal aux doigts de la main gauche...
+	Décision prise: j'enregistrerai Tears au souba comme tout le monde, mais je ferai Bad Guy au violoncelle.
+
+Jour 21	lundi 6 avril
+	Je réinstalle Virtualbox pour tenter d'utiliser AndroidStudio sous Linux.
+	Apéro Manoha
+	Nettoyage partiel disque dur, plein de PNG Blender à virer: 16.1 libérés
+	MrRobot
+
+Jour 22	mardi 7 avril
+	Appel Malou
+	Préparation enregistrement Tears avec Matthias
+	
