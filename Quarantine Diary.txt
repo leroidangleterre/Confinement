@@ -193,4 +193,37 @@ Jour 38: jeudi 23 avril
 	21:53 kéké voiture is back !
 	J'ai imprimé la première moitié de la table impossible, il faut revoir l'assemblage des deux pièces mais ça a l'air bien parti.
 	23:54 kéké voiture...
+
+Jour 39: vendredi 24 avril
+	tentative impression table en plus grand, pas marché
+	Réinstallation Premiere, ça a l'air de marcher...
+	Apéro TB
+	21:29 kéké voiture
+	21:46 qui c'est ? Bah c'est kéké voiture encore.
+	22:54 le mec craque vraiment son slip, kéké voiture is back !
+
+Jour 40: samedi 25 avril
+	Relance sur le projet SPH: collision des particules avec les rectangles.
+	J'ai enfin ressorti les chaussures ! 4 km en 1/2h, mais ça pique...
+	Impression 3d de la table: deuxième partie ratée, la première couche ne colle pas bien.
+
+Jour 41: dimanche 26 avril
+	02:17: kéké voiture sort la voiture dans la rue, il a un gros moteur...
+	02:23: kéké voiture revient.
+	Apéro Rambaud
+	21:48 kéké qui ? Kéké voiture bien sûr !
+	23:26 je commence à bien connaître le son du moteur de Kéké Voiture !
+
+Jour 42: lundi 27 avril
+	Je commence un code de Picross
+	01:38 kéké voiture fait rouler la bête pour pas qu'elle rouille.
+	03:14 le programme de Picross avance bien et kéké voiture ne dort toujours pas.
+	15:00 il ne reste plus qu'un seul algo pour le picross: la vérification de la grille. Et il s'avère que c'est pas facile...
+
+Jour 43: mardi 28 avril
+	Impression et assemblage des renforts pour la table impossible. J'attends demain avant de mettre la table sous tension.
+	Sortie course: 3.8km, 22'.
+
+Jour 44: mercredi 29 avril
+	00:25 Picross: LA REVELATION DU JOUR: il faut que j'utilise une version modifiée de la distance de Damerau-Levenshtein pour déterminer si une ligne est correcte ou non.
 	
