@@ -223,7 +223,48 @@ Jour 42: lundi 27 avril
 Jour 43: mardi 28 avril
 	Impression et assemblage des renforts pour la table impossible. J'attends demain avant de mettre la table sous tension.
 	Sortie course: 3.8km, 22'.
+	J'avais oublié de regarder Westworld hier... Bah il ne reste plus qu'un épisode et il ne s'est rien passé... Scénario zéro.
 
 Jour 44: mercredi 29 avril
 	00:25 Picross: LA REVELATION DU JOUR: il faut que j'utilise une version modifiée de la distance de Damerau-Levenshtein pour déterminer si une ligne est correcte ou non.
+	01:30 MIB International
+	01:54 kéké voiture
+	rendu complet pour prévisu par la Team
+	16:30 sortie course. Bilan tout nul: beaucoup trop chaud, beaucoup trop de monde dans les rues. 2km.
+	19:22 kéké voiture
+	20:00 réu matthias boblu
+	21:41 kéké voiture
+
+Jour 45: jeudi 30 avril
+	01:53 kéké voiture
+	20:12 envoi de la version 1.0 du clip Trous
+	21:50 kéké voiture
+	22:10 kéké voiture. Je me demande s'il sait que je fais des statistiques sur la voiture. Probablement pas.
+	23:37 pendant un rendu de Premiere, je pratique le déplacement rotationnel des extrémités digitales opposables.
+
+Jour 46: vendredi 1er mai
+	3:14 kéké voiture
+	05:43 Je me remets au clip.
+	12:30 Je me remets au clip.
+	19:15 on en est aux touches finales...
+	20:42 je confie l'export FINAL à Chartreuse.
+	22:25 kéké voiture
+
+Jour 47: samedi 2 mai
+	00:48 kéké voiture
+	12:30 diffusion officielle du clip ! On a fini !!!
+	20:00 cours de Premiere pour Lorraine
+	22:00 kéké voiture
+	22:35 encore kéké voiture !
+
+Jour 48: dimanche 3 mai
+	Picross: LA REVELATION DU JOUR: en fait c'est pas Damerau-Levenshtein que je dois utiliser, mais A*
+	23:45 dernier article sur la gazette
+	23:53 pas entendu kéké voiture aujourd'hui...
+
+Jour 49: lundi 4 mai
+	02:12 kéké voiture
+	May the 4th be with you: réalisation du générique de Star Wars
+	Westworld: bah je sais toujours pas comment ça va se finir... Attends... Comment ça c'est fini ?
+	KSP Aircraft Carrier: ça marche enfin ! Premiers appontages réussis.
 	
