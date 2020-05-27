@@ -286,4 +286,112 @@ Jour 53: vendredi 8 mai
 	21:00 apéro Trous
 	21:32 kéké voiture
 	KSP RSS: Space Shuttle
+
+Jour 54: samedi 9 mai
+	KSP la navette fonctionne, ré-entrée à perfectionner. Station en orbite.
+	Picross: nouvel algo, A* c'était beaucoup trop bourrin.
+	Et ça fonctionne quasiment ! Certaines grilles sont résolues, d'autres ont quelques problèmes;
+	ça semble lié aux lignes qui se finissent par un carré noirci, to be continued.
+
+Jour 55: dimanche 10 mai
+	03:42 brève apparition de kéké voiture
+	KSP Space Shuttle flies to LEO - Unmanned Moon lander
+	Bureau des Légendes
+
+Jour 56: lundi 11 mai
+	02:32 avant le déconfinement, kéké voiture fait chauffer le moteur.
+	03:50 encore ? Ah bah ouais, kéké voiture...
+	Seven Pounds, Will Smith
+	21:58 kéké voiture
+	22:23 kéké voiture, il fait véritablement rouler la bête ??? Ouaouh !
+	23:30 frites au four et magret: les frites passent à la poële sinon c'est trop long. Bilan magret: ok, frites: pas mal mais peut mieux faire :)
+
+Jour 57: mardi 12 mai
+	00:05 kéké voiture
+	02:30 Picross debugged, le problème dans la résolution du tank n'était pas dans l'algorithme mais dans le fichier d'entrée...
+	Prochaine étape: convertir une image noir-et-blanc en grille !
+	03:40 la grille est affichée dans une fenêtre Swing, pendant la résolution.
+	Prochaine étape: lire une image Bitmap et la transformer en fichier d'entrée ! Mais maintenant, dodo.
+
+Jour 58: mercredi 13 mai
+	Picross Solver s'attaque à un 30x30. On dirait que ça va être long...
+	02:03 kéké voiture
+	02:20 après plus de 35 minutes pendant lesquelles seules 4 lignes ont été explorées, j'inverse les lignes et les colonnes pour le Picross du roi:
+	résolution en 1200 ms. Il faudrait que je comprenne pourquoi la même grille donne des temps de résolution aussi différents,
+	et que je laisse tourner la grille initiale jusqu'à complétion.
+	Ship: 1200 ms en inversé, moulinage à la 19eme ligne après 2 minutes.
+	Lecture d'images: je constate qu'il est difficile de créer une grille dont la résolution est rapide.
+	Il faut que je complète l'algo de résolution pour savoir en plus si la solution trouvée est unique.
+	16:42 kéké voiture
+	19:00 je suis sorti faire un tour de roue. Avec le masque, sans m'approcher des gens.
+	20:00 kéké voiture encore
+	23:40 à nouveau kéké voiture
+
+Jour 59: jeudi 14 mai
+	18:00 sortie course, 6 km. Pas encore au niveau d'avant...
+	19:43 kéké voiture
+	21:00 Mission to Minmus with enhanced Space Shuttle
+	23:12 kéké voiture
+
+Jour 60: vendredi 15 mai
+	16:00 sortie roue, passage au Capitole, pont neuf, Saint-Pierre
+	18:00 sortie roue pour aller acheter un encrier à Blagnac. Retour les mains vides..
+	21:52 kéké voiture
+
+Jour 61: samedi 16 mai
+	19:00 j'ai acheté ma cafetière Senseo !
+	22:23 kéké voiture
+
+Jour 62: dimanche 17 mai
+	03:31 kéké voiture
+	03:55 plus qu'un épisode de LBDL s2.
+	20:00 zoom Manoha finances
+	21:55 kéké voiture
+	23:30 LBDL s2 c'est fini, on passe à la s3
+
+Jour 63: lundi 18 mai
+	02:54 kéké voiture
+	sortie roue
+	20:54 kéké voiture
+
+Jour 64: mardi 19 mai
+	20:00 sortie roue
+	22:15 kéké voiture
+
+Jour 65: mercredi 20 mai
+	aprem: sortie roue
+	19:00 répet fanfare: c'est la reprise !!!
+	Problème de lag KSP: il semble que le lag disparaît quand le ventilo se met en marche. A explorer...
+
+Jour 66: jeudi 21 mai
+	Soirée chez Croûte, retour à 06:30 vendredi
+
+Jour 67: vendredi 22 mai
+	Répet à l'EHPAD, after chez ElOliv
+
+Jour 68: samedi 23 mai
+	J'ai rendu à Thibaut le matériel de démarrage pour la voiture de Cédric
+
+Jour 69: dimanche 24 mai
+	02:59 kéké voiture
+	2 sorties roue
+	23:17 kéké voiture
+	Fin LBDL s3
+
+Jour 70: lundi 25 mai
+	00:41 kéké voiture très brièvement
+	LBDL saison 4 déjà commencée...
+
+Jour 71: mardi 26 mai
+	02:16 le concept du masque de ski pour le tracking semble très prometteur.
+	23:45 je me suis remis à coder Human Resource Machine.
+	23:48 kéké voiture
+
+Jour 72: mercredi 27 mai
+	00:43 kéké voiture à nouveau
+	18:00 répet Trous à l'EHPAD (oui, mais des Panzani)
+	Crevaison de la roue. A plat en 30 secondes, non maneuvrable donc inutilisable...
+
+Jour 73: jeudi 28 mai
+	01:53 après démontage et nettoyage de la roue, j'ai mis une rustine et regonflé le pneu. A voir demain matin si la réparation a tenu...
 	
