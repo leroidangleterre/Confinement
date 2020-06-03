@@ -394,4 +394,27 @@ Jour 72: mercredi 27 mai
 
 Jour 73: jeudi 28 mai
 	01:53 après démontage et nettoyage de la roue, j'ai mis une rustine et regonflé le pneu. A voir demain matin si la réparation a tenu...
+	18:00 test de la roue pour aller acheter une chambre à air. en haut de Jolimont, à nouveau dégonflé. J'y vais en métro demain...
+
+Jour 74: vendredi 29 mai
+	Nouvelle chambre à air pour la roue !
+	anniv Sascha à la prairie des Filtres...
+
+Jour 75: samedi 30 mai
+	Rien (cf hier)
+
+Jour 77: dimanche 31 mai
+	Petite sortie roue, pas grand-chose
+
+Jour 77: lundi 1er juin
+	Avancement du code Human Resource Machine, les tests des instructions If fonctionnent presque !
+	14:50 démarrage du montage Can You Digonfinement
+	15:39 kéké voiture
+	19:23 kéké voiture
+	Sortie course !!! 8 km environ
+	Confine you dig it: on en est à 11 pistes vidéo et 13 pistes son.
+
+Jour 78: mardi 2 juin
+	Human Resource Machine: toujours bloqué sur le chargement des If et Jump.
+	Apéro Autruche pour la réouverture, retour sans problème, dodo 22:50
 	
