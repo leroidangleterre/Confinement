@@ -403,7 +403,7 @@ Jour 74: vendredi 29 mai
 Jour 75: samedi 30 mai
 	Rien (cf hier)
 
-Jour 77: dimanche 31 mai
+Jour 76: dimanche 31 mai
 	Petite sortie roue, pas grand-chose
 
 Jour 77: lundi 1er juin
@@ -417,4 +417,37 @@ Jour 77: lundi 1er juin
 Jour 78: mardi 2 juin
 	Human Resource Machine: toujours bloqué sur le chargement des If et Jump.
 	Apéro Autruche pour la réouverture, retour sans problème, dodo 22:50
+
+Jour 79: mercredi 3 juin
+	Débug HRM
+	réception clip Lorraine
+	apéro BierGarten (Oliv, Lolo, Marion, Kady, Victoria, Matthias)
+	re-code HRM
+
+Jour 80: jeudi 4 juin
+	Pas mal avancé sur le code. Quasi capable de trier des cubes !
+
+Jour 81: vendredi 5 juin :)
+	apéro autruche, début 18h avec Lucas, fin 06h à la maison
+
+Jour 82: samedi 6 juin
+	réveil tardif, avancement graphique sur HRM
+	Avengers avec Seb: Infinity War puis Endgame
+
+Jour 83: dimanche 7 juin
+	Automatisation de HRM avec un timer !!!
+
+Jour 84: lundi 8 juin
+	Démarrage du jingle TB pour le clip sur le format du logo Marvel
+
+Jour 85: mardi 9 juin
+	Je continue le jingle TB-Marvel
+
+Jour 86: mercredi 10 juin
+	Premier assemblage du TB-Marvel avec les images du clip précédent
+	Répet EHPAD
+	After Tower of London, retour en roue vers 2h20
+
+Jour : lundi 22 juin
+	Première sortie de Seb au Péry
 	
